@@ -14,7 +14,7 @@
 
 **Project Title**: Sales Dashboard
 
-**Database**: ` Supermarket_sales`
+**Dataset**: ` Supermarket_sales Dataset`
 
 **Tools Used**:- ` Excel `
 
