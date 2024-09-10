@@ -2,7 +2,7 @@
 
 
 
-### Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from Supermarket sales spanning. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product, categories, different customers and cities.
+#### Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from Supermarket sales spanning. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product, categories, different customers and cities.
 
 ### Dashboard Link : https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/blob/main/Global%20Terrorism%20Power%20BI.pdf
 
