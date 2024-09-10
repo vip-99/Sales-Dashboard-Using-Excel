@@ -2,10 +2,12 @@
 
 
 
+
 #### Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from Supermarket sales spanning. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product, categories, different customers and cities.
 
-### Dashboard Link : [https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/blob/main/Global%20Terrorism%20Power%20BI.pdf](https://github.com/vip-99/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard%20Pdf.pdf)
 
+
+### Dashboard Link : [https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/blob/main/Global%20Terrorism%20Power%20BI.pdf](https://github.com/vip-99/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard%20Pdf.pdf)
 
 
 ## Project Overview :-
@@ -19,8 +21,10 @@
 
 
 
+
 ## Problem Statement :-
-  Analyze supermarket sales data to identify trends, customer preferences, and product performance, optimizing inventory and boosting revenue through insights.
+  ***Analyze supermarket sales data to identify trends, customer preferences, and product performance, optimizing inventory and boosting revenue through insights.***
+
 
 
 
@@ -32,6 +36,8 @@
 
 
 
+
+
 ## Features :-
 1 ***Analyze sales trends over time.***
 
@@ -40,6 +46,8 @@
 3 ***Most time uing Payments.***
 
 4 ***Explore the average rating by product.***
+
+
 
 
 
@@ -75,7 +83,7 @@
  
  # Report Snapshot (Power BI DESKTOP)
 
-![Dashboard Upload](https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/raw/main/Global%20Terrorism%20Power%20BI_page-0001.jpg)
+![Dashboard Upload]([https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/raw/main/Global%20Terrorism%20Power%20BI_page-0001.jpg](https://github.com/vip-99/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard.jpg))
 
 
 
