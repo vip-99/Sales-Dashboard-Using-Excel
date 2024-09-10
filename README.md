@@ -54,29 +54,14 @@
 
 ## Key Insights :-
 
-- Step 1 : ***Total Number of `terrorist` Incidents attack happens in period of `1970 to 2017`.***
+- Step 1 : ***The `Food and Beverages` category has the highest `average rating` and leads in sales quantity, indicating strong customer satisfaction and high demand compared to other 
+           categories.***
 
 
-- Step 2 : ***Total Number of successful `attack` is `162k` Most used weapons by terrorist is `Explosive`.***
+- Step 2 : ***`Mandalay City` generated the highest revenue, contributing around `35%` of total sales, followed by `Naypyitaw` City, showcasing its significant role in driving overall business performance.***
 
 
-- Step 3 : ***Most `deadly terrorist group` is `Taliban`.***
-
-
-- Step 4 : ***Common `type of attack` is `Bombing/Explosion` and it's success rate is `48%` and second highest success rate by attack type is Armed Assault with `25%` as compared with other attack type.***
-
-
-- Step 5 : ***Attacks year wise as lowest attacks are happens in year of `1971` with count of `465` and highest attacks are happened on `2014` with count of `16.9k+`.***
-
-
-- Step 6 : ***Top `Deadly terrorist group` is `Taliban` with count of attack done is `30.79%`.***
-
-
-- Step 7 : ***Most Success rate by `target type` attempted in `private citizens` & property with `21k` as compared with other target type.***
-  
-
-- Step 8 : ***Most success rate by `region` is `South asia` & `Middle east` with almost `21K `as compared with other region.***
-
+- Step 3 : ***Most customers prefer using `e-wallets` for `payments`, while `credit card` usage is significantly lower, indicating a strong shift towards digital wallet transactions.***
 
 
 
