@@ -81,14 +81,18 @@
 
 
  
- # Report Snapshot (Power BI DESKTOP)
+ # Report Snapshot (EXCEL)
 
-![Dashboard Upload]([https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/raw/main/Global%20Terrorism%20Power%20BI_page-0001.jpg](https://github.com/vip-99/Sales-Dashboard-Using-Excel/blob/main/Sales%20Dashboard.jpg))
+
+![Dashboard Upload](https://raw.githubusercontent.com/vip-99/Sales-Dashboard-Using-Excel/main/Sales%20Dashboard.jpg)
+
 
 
 
 
 ## Tags :-
-#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
 
-Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀
+***#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics***
+
+
+***Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀***
