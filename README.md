@@ -54,20 +54,6 @@
 
 ## Key Insights :-
 
-- Step 1 : ***The `Food and Beverages` category has the highest `average rating` and leads in sales quantity, indicating strong customer satisfaction and high demand compared to other 
-           categories.***
-
-
-- Step 2 : ***`Mandalay City` generated the highest revenue, contributing around `35%` of total sales, followed by `Naypyitaw` City, showcasing its significant role in driving overall business performance.***
-
-
-- Step 3 : ***Most customers prefer using `e-wallets` for `payments`, while `credit card` usage is significantly lower, indicating a strong shift towards digital wallet transactions.***
-
-
-
-
-## Key Insights :-
-
 - Step 1 : ***Average Rating by Products***:
 
     Displays the average customer rating for different product categories. Food and Beverages has the highest rating (7.1), while Home and Lifestyle has the lowest (6.8).
